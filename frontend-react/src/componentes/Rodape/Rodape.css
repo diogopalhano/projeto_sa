@@ -1,0 +1,14 @@
+footer{
+    background-color: rgb(255, 0, 0);
+    grid-area: rodape;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+
+
+.texto-copyright{
+  color: #fff;
+}
+

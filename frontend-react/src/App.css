@@ -9,22 +9,4 @@
 }
 
 
-header{
-  background-color: rgb(0, 0, 0) ;
-  grid-area: cabecalho;
 
-}
-aside{
-  background-color: rgb(99, 69, 69);
-  grid-area: ladoEsquerdo;
-}
-main{
-
-  background-color: rgb(25, 0, 255);
-  grid-area: principal;
-}
-
-footer{
-  background-color: rgb(255, 0, 0);
-  grid-area: rodape;
-}
