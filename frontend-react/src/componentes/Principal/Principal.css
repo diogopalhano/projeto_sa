@@ -1,5 +1,8 @@
 main{
 
-    background-color: rgb(25, 0, 255);
+    background-color:var(--cor-fundo-padrao);
     grid-area: principal;
+    display: flexbox;
+    
   }
+

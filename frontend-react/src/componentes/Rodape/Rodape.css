@@ -1,5 +1,5 @@
 footer{
-    background-color: rgb(255, 0, 0);
+    background-color: var(--cor-fundo-padrao);
     grid-area: rodape;
     display: flex;
     align-items: center;
@@ -9,6 +9,6 @@ footer{
 
 
 .texto-copyright{
-  color: #fff;
+  color: #ff1212;
 }
 

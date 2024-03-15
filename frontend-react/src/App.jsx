@@ -6,7 +6,7 @@ import Rodape from "./componentes/Rodape/Rodape";
 
 function App() {
 
-    console.log("app render..")
+  console.log("app render..")
 
 
   return (
